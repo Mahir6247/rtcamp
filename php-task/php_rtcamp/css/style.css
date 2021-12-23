@@ -1,0 +1,28 @@
+.box{
+    
+    font-size: 34px;
+    font-weight: bold;
+    color: #fbecec;
+    background-color: #440047;
+    border-color: #91d18b;
+    border-style: groove;
+    border-width: 3px;
+    border-radius: 15px;
+    width: 200px;
+    padding: 20px;
+    /* margin: auto; */
+    margin: 50px;
+    /* margin-top: 50px; */
+    text-align: center;
+ }
+ .title{
+    padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
+    color: #e11d74;
+    margin: 1.2rem;
+ }
+
+ body{
+    margin: 0px;
+    background-color: #fbecec;
+}
