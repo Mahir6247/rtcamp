@@ -59,7 +59,7 @@ if (isset($_SERVER['HTTPS']) && ($_SERVER['HTTPS'] == 'on' || $_SERVER['HTTPS'] 
         $server = $_SERVER['HTTP_HOST'];
     }
     $protocol .= $server;
-    $protocol .= '/aaaa/php-task/php_rtcamp/unsubscribe.php';
+    $protocol .= '/php-task/php_rtcamp/unsubscribe.php';
     $protocol .= '?key=';
     
     while ($row=mysqli_fetch_assoc($result)) {
