@@ -51,7 +51,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                         $server = $_SERVER['HTTP_HOST'];
                     }
                     $protocol .= $server;
-                    $protocol .= '/aaaa/php-task/php_rtcamp/activate.php';
+                    $protocol .= '/php-task/php_rtcamp/activate.php';
                         
                     $body="Hello dear \r\n";
                     $body .= "Click here to activate your account 
