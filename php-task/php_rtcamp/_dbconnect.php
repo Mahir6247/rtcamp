@@ -1,7 +1,7 @@
 <?php
 ob_start();
 session_start();
-$conn=new mysqli('https://phpcomiconmail.herokuapp.com/','','','krishnan');
+$conn=new mysqli('https://github.com/Krishnanvijay173/rtcamp/tree/main/php-task/php_rtcamp','','','krishnan');
 if(mysqli_connect_error())
 {
     die ('connection not found'.mysqli_connect_error());
