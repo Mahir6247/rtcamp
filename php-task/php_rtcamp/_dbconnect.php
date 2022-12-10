@@ -17,7 +17,7 @@ error_reporting(0);
 // $ServerName="localhost";
 // $Username="root";
 // $Password="";
-// $DatabaseName="krishnan";
+// $DatabaseName="RTcamp";
 
 
 // $conn=mysqli_connect($ServerName,$Username,$Password,$DatabaseName);
